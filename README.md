@@ -25,4 +25,5 @@ It consists of two parts :
 
 ---------------------------------------------------------------
 ##### I will not be responsible for any direct or indirect damage caused due to the usage of this tool, it is for educational purposes only.
+##### This is not my work, I have only contributed to this wonderful tool.
 
