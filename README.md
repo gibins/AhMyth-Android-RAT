@@ -21,32 +21,8 @@ It consists of two parts :
 * Download a binary from https://github.com/AhMyth/AhMyth-Android-RAT/releases
 * Java (to generate apk backdoor)
 
-## Screenshots
-<p align="center">
-  <img src="http://i.imgur.com/HM3uXL6.png" width="600"/>
-</p>
-
----------------------------------------------------------------
-
-<p align="center">
-  <img src="http://i.imgur.com/nHTGGHi.png" width="600"/>
-</p>
-
----------------------------------------------------------------
-
-<p align="center">
-  <img src="http://i.imgur.com/XVXCHV9.png" width="600"/>
-</p>
-
-
-## Video Tutorial
-<p align="center">
-<a href="https://www.youtube.com/watch?v=DDIZTABABzs">
-  <img src="https://img.youtube.com/vi/DDIZTABABzs/0.jpg" width="600"/>
-</a></p>
 
 
 ---------------------------------------------------------------
 ##### I will not be responsible for any direct or indirect damage caused due to the usage of this tool, it is for educational purposes only.
-###### Twitter : <a href="https://twitter.com/AhMythDev"> @AhMythDev </a>
-###### Bitcoin address for donations:  : 1EVwLuwmbsEuej7qJnNquFeQJLsgd2b8Lq
+
